@@ -1,7 +1,9 @@
 # Solar Putty Crack
-Cracks Solar PuTTY session files.
+Cracks Solar PuTTY session files. It attempts to brute force passwords for Solar PuTTY data files.
 
 Usage: sp_crack <wordlist_filepath> <session_filepath>
+
+There's a linux binary available to download in releases. You need mono / .net installed.
 
 Example: 
 
