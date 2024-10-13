@@ -1,5 +1,5 @@
 # Solar Putty Crack
-Cracks Solar PuTTY session files. It attempts to brute force passwords for Solar PuTTY data files.
+Cracks Solar PuTTY session files. It attempts to brute force passwords for Solar PuTTY session files.
 
 Usage: sp_crack <wordlist_filepath> <session_filepath>
 
