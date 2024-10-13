@@ -9,7 +9,7 @@ Example:
 
     sp_crack /usr/share/wordlists/rockyou.txt ./session.dat
 
-Example Output (Note, real output will not haved <CENSORED> tags):
+Example Output (Note, real output will not haved CENSORED tags):
 
     Current platform cannot try to decrypt session data without password: Operation is not supported on this platform.
     This is expected on Linux and MacOS. Will continue to try to decrypt with password.
