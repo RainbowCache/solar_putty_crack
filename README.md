@@ -5,6 +5,8 @@ Usage: sp_crack <wordlist_filepath> <session_filepath>
 
 There's a linux binary available to download in releases. You need mono / .net installed.
 
+See https://hackmd.io/@tahaafarooq/cracking-solar-putty for an in-depth explanation of solar putty session data decrypting.
+
 Example: 
 
     sp_crack /usr/share/wordlists/rockyou.txt ./session.dat
