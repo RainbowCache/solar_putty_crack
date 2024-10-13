@@ -7,3 +7,10 @@ Example:
 
     sp_crack /usr/share/wordlists/rockyou.txt ./session.dat
 
+Example Output (Note, real output will not haved <CENSORED> tags):
+
+    Current platform cannot try to decrypt session data without password: Operation is not supported on this platform.
+    This is expected on Linux and MacOS. Will continue to try to decrypt with password.
+    Decrypted: {"Sessions":[{"Id":"<CENSORED>","Ip":"<CENSORED>","Port":22,"ConnectionType":1,"SessionName":"Instant","Authentication":0,"CredentialsID":"<CENSORED>","AuthenticateScript":"00000000-0000-0000-0000-000000000000","LastTimeOpen":"0001-01-01T00:00:00","OpenCounter":1,"SerialLine":null,"Speed":0,"Color":"#FF176998","TelnetConnectionWaitSeconds":1,"LoggingEnabled":false,"RemoteDirectory":""}],"Credentials":[{"Id":"<CENSORED>","CredentialsName":"root","Username":"root","Password":"<CENSORED>,"PrivateKeyPath":"","Passphrase":"","PrivateKeyContent":null}],"AuthScript":[],"Groups":[],"Tunnels":[],"LogsFolderDestination":"C:\\ProgramData\\SolarWinds\\Logs\\Solar-PuTTY\\Sessio
+    Password founnd: <CENSORED>
+
